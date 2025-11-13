@@ -18,6 +18,6 @@ Em busca de conhecimentos e aprendizagem na área da tecnologia
 
 Estou sempre em busca de novos desafios e conhecimentos. Neste momento, estou estudando:
 
-* **[PHP, HTML, BANCO DE DADOS]**
+* **PHP, HTML, BANCO DE DADOS**
 
 
