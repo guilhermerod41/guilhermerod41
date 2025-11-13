@@ -12,7 +12,7 @@ Em busca de conhecimentos e aprendizagem na área da tecnologia
 
 
 
----
+
 
 ## 🌱 O que estou aprendendo
 
