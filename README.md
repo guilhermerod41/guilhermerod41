@@ -7,14 +7,7 @@ Em busca de conhecimentos e aprendizagem na área da tecnologia
 
 ---
 
-## 🛠️ Minhas Habilidades
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
-
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens de Programação** |`C#`|
-| **Bancos de Dados** |  `MySQL` |
 
 
 
