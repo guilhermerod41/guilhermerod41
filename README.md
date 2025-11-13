@@ -1,4 +1,4 @@
-# Olá, eu sou [Guilherme] 👋
+# Olá, eu sou Guilherme 
 
 
 
